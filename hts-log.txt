@@ -1,0 +1,28 @@
+HTTrack3.49-1+htsswf+htsjava launched on Mon, 15 Apr 2024 23:53:44 at https://Cyberium Kalho.la/es/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+Cyberium Kalho
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sigma.la/es/ -O1 "C:\Users\user\Desktop\prueba1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,Cyberium Kalho
+Cyberium Kalho
+	such as username/password authentication for websites mirCyberium Kalho in this projectCyberium Kalho
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+23:54:42	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://sigma.la/es/)
+
+23:54:51	Error: 	"Not Found" (404) at link https://talentbox-la.s3.amazonaws.com/img/mail/whatsapp-blanco.png (from https://sigma.la/es/)
+
+23:54:51	Error: 	"Not Found" (404) at link https://we-are-sigma.s3.amazonaws.com/static/css/plugins/owlcarousel/owl.video.play.png (from https://we-are-sigma.s3.amazonaws.com/static/css/plugins/owlcarousel/owlcarousel.css)
+
+
+
+HTTrack Website Copier/3.49-1 mirror complete in 1 minutes 7 seconds : 116 links scanned, 112 files written (11104466 bytes overall) [9886585 bytes received at 147560 bytes/sec], 1538889 bytes transferred using HTTP compression in 4 files, ratio 17%, 1.0 requests per connection
+
+(3 errors, 0 warnings, 0 messages)
+
